@@ -1,7 +1,7 @@
 
 # 🛒 GadgetBay Microservices System
 
-This is a microservices-based e-commerce system built with **Spring Boot**, **Docker**, **Kafka**, **MongoDB**, **MySQL**, **Prometheus**, **Grafana**, **Loki**, and **Resilience4j**. The system is composed of the following services:
+This is a microservices-based e-commerce system built with **Spring Boot**, **Docker**, **Kafka**, **MongoDB**, **MySQL** and **Resilience4j**. The system is composed of the following services:
 
 - API Gateway
 - Product Service

@@ -19,7 +19,6 @@ This is a microservices-based e-commerce system built with **Spring Boot**, **Do
 
 - **Microservice Architecture** with Docker
 - **Resilience4j** for circuit breaker patterns
-- **Kafka** for async communication
 - **MongoDB** for NoSQL data (Product Service)
 - **MySQL** for relational data (Order, Inventory)
 - **API Gateway** for routing requests
@@ -62,7 +61,7 @@ This is a microservices-based e-commerce system built with **Spring Boot**, **Do
 |------------------|----------------------------------------|
 | Spring Boot      | Java microservice framework            |
 | Spring Cloud     | API Gateway, Resilience4j, Config      |
-| Kafka            | Async messaging between services       |
+    |
 | MongoDB          | NoSQL database for Product Service     |
 | MySQL            | Relational DB for Order & Inventory    |
 | Docker           | Containerization                       |
